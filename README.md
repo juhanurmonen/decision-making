@@ -1,5 +1,7 @@
 ## Päätöksenteon matematiikkaa
 
+(Täydentyy vielä syksyn 2024 aikana.)
+
 * __Investointilaskelmat__
   * <a href="https://www.slideshare.net/slideshow/investointilaskelmat-123566310/123566310">Investointilaskelmat (SlideShare)</a>
   * <a href="https://nbviewer.org/github/juhanurmonen/financial-calculations/blob/main/investoinnit.ipynb">Investointilaskelmat Pythonilla</a>
