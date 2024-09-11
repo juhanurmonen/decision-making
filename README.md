@@ -18,7 +18,7 @@
 * __Verkkoteoria__
   * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/Ef6Czcu9hrREgdJB-R3uvokBVMP7DS9JWzbrBE6T-CxJEA?e=So1kH2">Johdatusta verkkoteoriaan</a> (pdf)
   * <a href="https://nbviewer.org/github/juhanurmonen/decision-making/blob/main/verkkoteoria.ipynb">Johdatusta verkkoteoriaan ja Gantt-kaaviot</a>
-  * <a href="">Oppituntitallenne</a> (mp4)
+  * <a href="https://video.haaga-helia.fi/media/Strategiset+p%C3%A4%C3%A4t%C3%B6ksentekomallitA+Verkkoteoria%2C+luento+11.9.2024/0_82kyg0sa">Oppituntitallenne 11.9.2024</a> (mp4, kesto 2h 16 min)
     
 * __Lineaarinen optimointi__
   * <a href="https://nbviewer.org/github/juhanurmonen/decision-making/blob/main/lineaarinen_optimointi.ipynb">Lineaarinen optimointi</a>
