@@ -21,7 +21,8 @@
   * <a href="https://video.haaga-helia.fi/media/Strategiset+p%C3%A4%C3%A4t%C3%B6ksentekomallitA+Verkkoteoria%2C+luento+11.9.2024/0_82kyg0sa">Oppituntitallenne 11.9.2024</a> (mp4, kesto 2h 16 min)
     
 * __Lineaarinen optimointi__
-  * <a href="https://nbviewer.org/github/juhanurmonen/decision-making/blob/main/lineaarinen_optimointi.ipynb">Lineaarinen optimointi</a>
+  * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/EVfRm7TSH8FDkguCLaAhsHoB2JmpRnj_W_m6d7X66sGoZw?e=C4FfNW"> Lineaarinen optimointi &ndash; alustava esimerkki</a> (pdf-tiedosto)  
+  *  <a href="https://nbviewer.org/github/juhanurmonen/decision-making/blob/main/lineaarinen_optimointi.ipynb"> Lineaarinen optimointi</a>
 
 * __Varastoteoria: Optimaalinen ostoerä__
 
