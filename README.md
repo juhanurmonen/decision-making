@@ -35,7 +35,8 @@
 * __Velan optimointi__
 
 * __Peliteoria__
-  
+  * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/EdfGqoP8cLBKvmBffG4vaIkB6u7wGJxfwOHl60S7ZRufLw?e=0M6hYD"> Peliteoria</a> (pdf-tiedosto)
+  * <a href="https://haagahelia-my.sharepoint.com/:x:/g/personal/nurju_haaga-helia_fi/EWV7ErneWMBGhDz1RGHvIxwB-hFidAQLU2m5KF3uq5PXIg?e=xcAbpE"> Peliteoriaa &ndash; luentoesimerkki</a> (Excel-tiedosto)
 
 
 
