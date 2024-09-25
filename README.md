@@ -24,6 +24,7 @@
   * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/EVfRm7TSH8FDkguCLaAhsHoB2JmpRnj_W_m6d7X66sGoZw?e=C4FfNW"> Lineaarinen optimointi &ndash; alustava esimerkki</a> (pdf-tiedosto)
   * <a href="https://haagahelia-my.sharepoint.com/:x:/g/personal/nurju_haaga-helia_fi/EdK4e6kqgFBIkJ4eEr2Y4SkBIs7q0h1ZhWDnmyR4Ip1Ojg?e=BaPcTg"> Lineaarinen optimointi &ndash; luentoesimerkki</a> (Excel)
   *  <a href="https://nbviewer.org/github/juhanurmonen/decision-making/blob/main/lineaarinen_optimointi.ipynb"> Lineaarinen optimointi Pythonilla</a>
+  *  <a href="https://video.haaga-helia.fi/media/Strategiset+p%C3%A4%C3%A4toksentekomallitA+Lineaarinen+optimointi%2C+luento+25.9.2024/0_btn1w8zs">Oppituntitallenne 25.9.2024</a> (mp4, kesto 2h 4 min)
 
 * __Varastoteoria: Optimaalinen ostoerä__
   * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/ERiZRHoev-5FvNcxwyxFbu8Bxv4HiWEorkncA0kT_tzmzw?e=DxFSHR">Varastonhallintaa</a> (pdf-tiedosto)
