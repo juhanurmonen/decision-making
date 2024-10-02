@@ -29,6 +29,7 @@
 * __Varastoteoria: Optimaalinen ostoerä__
   * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/ERiZRHoev-5FvNcxwyxFbu8Bxv4HiWEorkncA0kT_tzmzw?e=DxFSHR">Varastonhallintaa</a> (pdf-tiedosto)
   *  <a href="https://haagahelia-my.sharepoint.com/:x:/g/personal/nurju_haaga-helia_fi/EXYbJ7vPVXNKhsD9ohH6lI8BbrNBbLmEkzlCk1oKesBNeA?e=of8OCu">Varastonhallintaa &ndash; luentoesimerkki</a> (Excel)
+  *  <a href="https://video.haaga-helia.fi/media/Strategiset+p%C3%A4%C3%A4t%C3%B6ksentekomallitA+Varastonhallinta%2C+luento+2.10.2024/0_3m98i2e3">Varastonhallintaa &ndash; Oppituntitallenne 2.10.2024</a> (mp4, kesto 1h 46 min)
 
 * __Simulointi__
   * <a href="https://nbviewer.org/github/juhanurmonen/decision-making/blob/main/Monte_Carlo_simulointi_Pythonilla.ipynb">Monte Carlo -simulointi Pythonilla</a>
