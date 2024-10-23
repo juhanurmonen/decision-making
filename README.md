@@ -33,6 +33,7 @@
 
 * __Simulointi__
   * <a href="https://nbviewer.org/github/juhanurmonen/decision-making/blob/main/Monte_Carlo_simulointi_Pythonilla.ipynb">Monte Carlo -simulointi Pythonilla</a>
+  * <a href="https://video.haaga-helia.fi/media/Monte+Carlo+simulointi+Pythonilla%2C+luento+23.10.2024/0_il3b92zs">Monte Carlo -simulointi Pythonilla &ndash; Oppituntitallenne 23.10.2024</a> (mp4, kesto 2h 1 min)
 
 * __Velan optimointi__
 
