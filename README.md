@@ -43,4 +43,4 @@
 
 
 
-Nämä materiaalit on tehnyt Juha Nurmonen ja ne lisensoitu <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Nimeä-JaaSamoin 4.0 Kansainvälinen -lisenssillä</a>.
+Nämä materiaalit on tehnyt Juha Nurmonen ja tekijä on ne lisensoinut <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Nimeä-JaaSamoin 4.0 Kansainvälinen -lisenssillä</a>.
