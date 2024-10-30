@@ -36,6 +36,7 @@
   * <a href="https://video.haaga-helia.fi/media/Monte+Carlo+simulointi+Pythonilla%2C+luento+23.10.2024/0_il3b92zs">Monte Carlo -simulointi Pythonilla &ndash; Oppituntitallenne 23.10.2024</a> (mp4, kesto 2h 1 min)
 
 * __Velan optimointi__
+  * <a href="https://video.haaga-helia.fi/media/Strategiset+p%C3%A4%C3%A4t%C3%B6ksentekomallitA+Velan+optimointi%2C+luento+30.10.2024/0_g1xo1s9g">Velan optimointi &ndash; Oppituntitallenne 30.10.2024</a> (mp4, kesto 1h 27 min)
 
 * __Peliteoria__
   * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/EdfGqoP8cLBKvmBffG4vaIkB6u7wGJxfwOHl60S7ZRufLw?e=0M6hYD"> Peliteoria</a> (pdf-tiedosto)
