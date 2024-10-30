@@ -1,6 +1,5 @@
 ## Päätöksenteon matematiikkaa
 
-(Täydentyy vielä syksyn 2024 aikana.)
 
 * __Investointilaskelmat__
   * <a href="https://www.slideshare.net/slideshow/investointilaskelmat-123566310/123566310">Investointilaskelmat (SlideShare)</a>
