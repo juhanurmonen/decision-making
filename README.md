@@ -41,7 +41,7 @@
 * __Peliteoria__
   * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/EdfGqoP8cLBKvmBffG4vaIkB6u7wGJxfwOHl60S7ZRufLw?e=0M6hYD"> Peliteoria</a> (pdf-tiedosto)
   * <a href="https://haagahelia-my.sharepoint.com/:x:/g/personal/nurju_haaga-helia_fi/EWV7ErneWMBGhDz1RGHvIxwB-hFidAQLU2m5KF3uq5PXIg?e=xcAbpE"> Peliteoriaa &ndash; luentoesimerkki</a> (Excel-tiedosto)
-
+  * <a href="https://video.haaga-helia.fi/media/Strategiset+p%C3%A4%C3%A4t%C3%B6ksentekomallitA+Peliteoria%2C+luento+6.11.2024/0_kqwygi2m"> Peliteoria &ndash; Oppituntitallenne 6.11.2024</a> (mp4, kesto 1h 38min)
 
 
 Nämä materiaalit on tehnyt Juha Nurmonen ja tekijä on ne lisensoinut <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Nimeä-JaaSamoin 4.0 Kansainvälinen -lisenssillä</a>.
